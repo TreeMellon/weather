@@ -1,0 +1,11 @@
+1. Debug
+
+adb shell input keyevent 82
+
+2. Navigation (Bottom Tab)
+
+https://reactnavigation.org/docs/7.x/getting-started
+
+ npm install @react-navigation/native
+
+=> npm install @react-navigation/native@next 는 필요없음

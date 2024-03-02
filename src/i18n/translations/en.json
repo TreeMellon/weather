@@ -1,0 +1,11 @@
+{
+    "greet": "Hello, world",
+    "name": "Name",
+    "current": "current",
+    "high": "high",
+    "low":"low",
+    "upcomming":"Upcomming",
+    "city": "City",
+    "feels":"Feels like",
+    "population": "Population"
+}

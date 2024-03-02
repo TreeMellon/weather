@@ -1,0 +1,11 @@
+{
+    "greet": "안녕하세요",
+    "name": "고객님",
+    "current": "현재날씨",
+    "high": "최고",
+    "low":"최저",
+    "upcomming":"날씨예보",
+    "city": "도시",
+    "feels":"체감온도",
+    "population": "인구"
+}
