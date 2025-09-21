@@ -4,3 +4,8 @@ React Native Course – Android and iOS App Development.
 
 엑스포 사용하지 않아 코드는 조금 틀립니다. 
 
+* 테스트 환경
+- macOS Monterey  (PC)
+- Android 휴대폰
+
+
